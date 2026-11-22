@@ -1,9 +1,3 @@
-### 1. Remplir `README.md` et `data/README.md`
-
-Exécutez ce bloc dans votre terminal VS Code (avec l'environnement `(.venv)` activé) pour générer une documentation propre et complète :
-
-```bash
-cat << 'EOF' > README.md
 # Projet M2 Big Data
 
 Ce dépôt contient les travaux pratiques (`lab01` à `lab06`), les modules de traitement distribué, les tests et le rapport final du projet de Master 2 Big Data.
