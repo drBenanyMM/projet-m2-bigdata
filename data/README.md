@@ -35,12 +35,3 @@ df = spark.createDataFrame(data, ["nom", "age"])
 df.show()
 
 ```
-
-
-3. **Pousser la mise à jour de votre documentation sur GitHub** :
-```bash
-git add README.md data/README.md
-git commit -m "docs: ajout de la documentation dans README.md et data/README.md"
-git push
-
-```
